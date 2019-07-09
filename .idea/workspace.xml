@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb74d98b-e5d3-4557-8e9c-e1d40f32a73c" name="Default Changelist" comment="" />
+    <list default="true" id="cb74d98b-e5d3-4557-8e9c-e1d40f32a73c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gildedrose/AgedBrie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gildedrose/BackstagePass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gildedrose/Sulfuras.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gildedrose/GildedRose.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gildedrose/GildedRose.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gildedrose/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gildedrose/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/gildedrose/GildedRoseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gildedrose/GildedRoseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/gildedrose/GildedRoseTest.updateQuality.approved.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gildedrose/GildedRoseTest.updateQuality.approved.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/gildedrose/TexttestFixture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gildedrose/TexttestFixture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gildedrose/Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gildedrose/Item.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,11 +34,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/gildedrose/GildedRose.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+            <state relative-caret-position="165">
+              <caret line="62" column="5" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gildedrose/Item.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="409">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gildedrose/Sulfuras.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gildedrose/BackstagePass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gildedrose/AgedBrie.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -34,8 +82,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/gildedrose/GildedRoseTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="40" lean-forward="true" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+            <state relative-caret-position="158">
+              <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -45,13 +93,26 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/gildedrose/Item.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/com/gildedrose/GildedRoseTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gildedrose/GildedRose.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gildedrose/AgedBrie.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gildedrose/Sulfuras.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gildedrose/BackstagePass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gildedrose/Item.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gildedrose/GildedRoseTest.java" />
       </list>
     </option>
   </component>
@@ -72,7 +133,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -132,12 +192,19 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.gildedrose" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -207,34 +274,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GildedRoseTest - 2019.07.08 at 09h 26m 10s.xml">
+    <history-entry file="GildedRoseTest - 2019.07.09 at 11h 02m 25s.xml">
       <configuration name="GildedRoseTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GildedRoseTest - 2019.07.08 at 09h 27m 40s.xml">
+    <history-entry file="GildedRoseTest - 2019.07.09 at 11h 03m 50s.xml">
       <configuration name="GildedRoseTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GildedRoseTest - 2019.07.08 at 09h 28m 00s.xml">
+    <history-entry file="GildedRoseTest - 2019.07.09 at 11h 04m 43s.xml">
       <configuration name="GildedRoseTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GildedRoseTest - 2019.07.08 at 09h 36m 33s.xml">
+    <history-entry file="GildedRoseTest - 2019.07.09 at 11h 05m 40s.xml">
       <configuration name="GildedRoseTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GildedRoseTest - 2019.07.08 at 09h 43m 06s.xml">
+    <history-entry file="GildedRoseTest - 2019.07.09 at 11h 09m 01s.xml">
       <configuration name="GildedRoseTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GildedRoseTest - 2019.07.08 at 09h 44m 44s.xml">
+    <history-entry file="GildedRoseTest - 2019.07.09 at 11h 10m 42s.xml">
       <configuration name="GildedRoseTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GildedRoseTest - 2019.07.08 at 09h 45m 31s.xml">
+    <history-entry file="GildedRoseTest - 2019.07.09 at 11h 12m 21s.xml">
       <configuration name="GildedRoseTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GildedRoseTest - 2019.07.08 at 09h 47m 01s.xml">
+    <history-entry file="GildedRoseTest - 2019.07.09 at 11h 12m 41s.xml">
       <configuration name="GildedRoseTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GildedRoseTest - 2019.07.08 at 09h 52m 12s.xml">
+    <history-entry file="GildedRoseTest - 2019.07.09 at 11h 13m 19s.xml">
       <configuration name="GildedRoseTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GildedRoseTest - 2019.07.08 at 14h 48m 30s.xml">
+    <history-entry file="GildedRoseTest - 2019.07.09 at 11h 13m 30s.xml">
       <configuration name="GildedRoseTest" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -251,7 +318,7 @@
     <frame x="0" y="23" width="1280" height="773" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2358643" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23909532" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -261,7 +328,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.076358296" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2804699" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -285,7 +352,7 @@
     <SUITE FILE_PATH="coverage/gilded_rose_kata$TexttestFixture.ic" NAME="TexttestFixture Coverage Results" MODIFIED="1562250736411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.gildedrose.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/gilded_rose_kata$GildedRoseTest.ic" NAME="GildedRoseTest Coverage Results" MODIFIED="1562655542888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
+    <SUITE FILE_PATH="coverage/gilded_rose_kata$GildedRoseTest.ic" NAME="GildedRoseTest Coverage Results" MODIFIED="1562663607911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
       <FILTER>com.gildedrose.*</FILTER>
     </SUITE>
   </component>
@@ -308,17 +375,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/gildedrose/Item.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-          <folding>
-            <element signature="e#763#764#0" expanded="true" />
-            <element signature="e#821#822#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
@@ -336,20 +392,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gildedrose/GildedRose.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="62" column="5" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gildedrose/Sulfuras.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gildedrose/BackstagePass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/gildedrose/GildedRoseTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="40" lean-forward="true" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+        <state relative-caret-position="158">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/gildedrose/GildedRose.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gildedrose/Item.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        <state relative-caret-position="409">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gildedrose/AgedBrie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
